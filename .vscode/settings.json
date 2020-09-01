@@ -1,0 +1,9 @@
+
+{
+  "terminal.integrated.fontSize": 14,
+  "editor.formatOnSave": false,
+  "prettier.stylelintIntegration": true,
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": false
+  }
+}

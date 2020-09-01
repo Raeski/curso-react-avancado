@@ -1,3 +1,4 @@
+eslint-disable-file no-use-before-define
 .container {
   min-height: 100vh;
   padding: 0 0.5rem;
